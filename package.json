@@ -1,0 +1,16 @@
+{
+  "name": "auto-charger",
+  "version": "1.0.0",
+  "description": "An utility tool used to toggle a smart plug through IFTTT, in order to automatically charge your laptop.",
+  "main": "index.js",
+  "author": "Alin Simoc",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "nodemon": "^2.0.19",
+    "systeminformation": "^5.11.22"
+  }
+}

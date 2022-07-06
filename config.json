@@ -1,0 +1,13 @@
+{
+  "key": "",
+  "events": {
+    "on": {
+      "name": "plug_on",
+      "percent": 20
+    },
+    "off": {
+      "name": "plug_off",
+      "percent": 80
+    }
+  }
+}
